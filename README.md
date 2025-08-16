@@ -11,7 +11,7 @@ Matricula: 898960
 
 ## Tela de projeto no Replit
 
-![Print inspeção navegador](images/prtscrn-repl-LR.png)
+![Print inspeção Replit](images/prtscrn-repl-LR.png)
 
 
 ## Orientações sobre Linguagem MarkDown
