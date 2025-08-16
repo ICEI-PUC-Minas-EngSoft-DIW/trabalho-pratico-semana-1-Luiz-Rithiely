@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Luiz Rithiely Barbosa Silva
+Matricula: 898960
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<images/prtscrn-site-LR.png>`
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+`<images/prtscrn-repl-LR.png>`
 
 
 ## Orientações sobre Linguagem MarkDown
